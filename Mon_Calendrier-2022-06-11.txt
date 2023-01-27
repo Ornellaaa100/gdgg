@@ -1,0 +1,15 @@
+2 févr. 2022	Température:37.0℃
+6 févr. 2022	Température:37.0℃
+15 févr. 2022	Début des règles
+18 févr. 2022	Fin des règles
+12 mars 2022	Début des règles
+12 mars 2022	Température:37.0℃
+15 mars 2022	Fin des règles
+9 avr. 2022	Début des règles
+9 avr. 2022	Température:37.0℃
+12 avr. 2022	Fin des règles
+5 mai 2022	Début des règles
+8 mai 2022	Fin des règles
+1 juin 2022	Début des règles
+4 juin 2022	Fin des règles
+22 oct. 2022	Température:37.0℃
